@@ -56,10 +56,20 @@ You may also be interested in the new version of the Nerthus database, an interf
 
 ## References
 
-	@@ -36,7 +78,7 @@ UPOS: manual native
+<pre>
+=== Machine-readable metadata (DO NOT REMOVE!) ================================
+Data available since: UD v2.15
+License: CC BY-SA 4.0
+Includes text: yes
+Genre: nonfiction
+Lemmas: manual native
+UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
 Contributors: Martín Arista, Javier; Metola, Dario; Morris, Daniel Blake
 Contributing: here
 Contact: javier.martin@unirioja.es
+===============================================================================
+</pre>
+
