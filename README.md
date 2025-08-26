@@ -1,13 +1,11 @@
-# Summary
-
-This is a 25,000 word UD treebank of Old English.
+This is a 50,000 word UD treebank of Old English.
 The text has been retrieved from Martín Arista, Javier (ed.), et al. 2023. ParCorOEv3 [www.nerthusproject.com].
 The treebank is a revised version of the dataset of Domínguez Barragán, S. 2024. Universal Dependencies of Old English. PhD Dissertation, University of La Rioja.
 
 
 # Introduction
 
-This treebank contains 38,140 lines that annotate around 25,000 Old English words.
+This treebank contains 68,689 lines that annotate around 50,000 Old English words.
 
 
 # Acknowledgments
@@ -17,7 +15,7 @@ The treebank is a revised version of the manual annotation carried out for asses
 
 # Data split
 
-The dataset was divided into a training set (20,000 words) and randomly selected test and dev sets comprising 5,000 words.
+The dataset was divided into a training set (25,000 words) and randomly selected test and dev sets comprising 12,500 words.
 
 
 # Specific aspects of Old English
@@ -58,28 +56,10 @@ You may also be interested in the new version of the Nerthus database, an interf
 
 ## References
 
-* (citation)
-
-
-# Changelog
-
-* 2024-11-15 v2.15
-  * Initial release in Universal Dependencies.
-
-
-<pre>
-=== Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.15
-License: CC BY-SA 4.0
-Includes text: yes
-Genre: nonfiction
-Lemmas: manual native
-UPOS: manual native
+	@@ -36,7 +78,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Martín Arista, Javier; Metola, Dario
+Contributors: Martín Arista, Javier; Metola, Dario; Morris, Daniel Blake
 Contributing: here
 Contact: javier.martin@unirioja.es
-===============================================================================
-</pre>
