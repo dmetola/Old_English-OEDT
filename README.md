@@ -67,7 +67,8 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Martín Arista, Javier; Metola, Dario; Morris, Daniel Blake
+Contributors (conllu): Martín Arista, Javier; Metola, Dario
+Contributors (NER): Martín Arista, Javier; Metola, Dario; Morris, Daniel Blake
 Contributing: here
 Contact: javier.martin@unirioja.es
 ===============================================================================
